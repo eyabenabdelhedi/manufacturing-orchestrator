@@ -1,0 +1,4 @@
+order_id,product,quantity,lead_time_days
+1,A,100,5
+2,B,200,7
+3,A,150,6
